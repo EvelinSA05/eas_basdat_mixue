@@ -9,8 +9,6 @@
 
 Aplikasi web sederhana ini dibuat sebagai tugas Ujian Akhir Semester (EAS) untuk mata kuliah Basis Data. Sistem ini dirancang untuk membantu pengelolaan data Mixue, seperti data produk, transaksi, stok, dan laporan, menggunakan teknologi PHP dan MySQL.
 
-> **Ganti link gambar di atas dengan screenshot aplikasi milikmu sendiri!**
-
 ## ✨ Fitur Utama
 
 - **Manajemen Data Produk & Transaksi**
